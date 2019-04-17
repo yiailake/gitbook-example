@@ -1,0 +1,39 @@
+{
+    "author": "Kevin feng <kfeng631@gmail.com>",
+    "description": "This is a sample book created by gitbook",
+    "language": "zh-hans",
+    "extension": null,
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "Kevinfeng's Blog": "http://yiailake.github.io"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [
+        "multipart",
+        "toggle-chapters"
+    ],
+    "title": "Sample GitBook",
+    "variables": {}
+}
